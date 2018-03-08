@@ -1,0 +1,54 @@
+header{
+      background:#ebebeb;
+      text-align:center;
+      color:#777;
+      margin-top:0px;
+    } 
+nav{
+    margin-bottom:10px;
+    background:#ebebeb;
+    text-align: center;
+    color:black;
+    font-family: Arial;
+    padding:15px;
+       
+  }
+section{
+       float:left;
+       background:#ebebeb;
+       font-family:Arial;
+       font-size:12px;
+       padding:10px;
+       margin-top:10px;
+       margin-bottom:10px;
+       margin-right:50px;
+      width:50%;       
+      }
+aside{
+        float:right;
+        height: 280px;
+        width: 600px;
+        background:#ebebeb;
+        margin-top:10px;
+        margin-bottom:10px;
+        margin-left:20px; 
+        width: 40%;
+      }
+#mount{
+        
+        height:5px;
+        width: auto;
+        margin-top:10px;
+        margin-left:100px;
+        margin-right:100px;
+        margin-bottom: 10px;     
+      }
+
+footer{
+            clear: left;
+            background:#ebebeb;
+            text-align: center;
+            padding: 4px;
+            
+          }
+
